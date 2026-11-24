@@ -1,4 +1,4 @@
-# Moto Factory 360°
+# Factory 360°
 
 Proyecto desarrollado para la cátedra de **Informática** del **IES N° 11** (desarrollado en **Flutter / Dart**).
 
@@ -10,11 +10,11 @@ Proyecto desarrollado para la cátedra de **Informática** del **IES N° 11** (d
 ## Documentación y fichas técnicas
 - Acta de tareas: [`ACTA_TAREAS.md`](ACTA_TAREAS.md)
 - Modelos incluidos:
-  - ONDA - NC750X
-  - ONDA - TORNADO XR300L
-  - ONDA - NAVI 110
-  - ONDA - TWISTER CB300F
-  - ONDA - WAVE 110S
+  - HONDA - NC750X
+  - HONDA - TORNADO XR300L
+  - HONDA - NAVI 110
+  - HONDA - TWISTER CB300F
+  - HONDA - WAVE 110S
 
  ## Código QR - Fichas técnicas
 
