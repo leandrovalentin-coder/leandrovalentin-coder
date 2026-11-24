@@ -1,9 +1,9 @@
-# ACTA DE ASIGNACIÓN Y REGISTRO DE TAREAS — MOTO FACTORY 360°
+# ACTA DE ASIGNACIÓN Y REGISTRO DE TAREAS — FACTORY 360°
 
 * **Institución:** IES N° 11 · Jujuy — Tecnicatura Superior en Desarrollo de Software[cite: 3]
 * **Cátedra:** Informática · 1° Año · Ciclo Lectivo 2026[cite: 3]
 * **Docente:** Prof. Ing. Ricardo Daniel Corimayo[cite: 3]
-* **Proyecto:** Moto Factory 360° (*"El corazón mecánico en tu pantalla. Explorá, cotizá y sentí la ruta."*)[cite: 3]
+* **Proyecto:** Factory 360° (*"El corazón mecánico en tu pantalla. Explorá, cotizá y sentí la ruta."*)[cite: 3]
 * **Entorno de desarrollo:** Flutter / Dart multiplataforma (Android, iOS y Web) en Visual Studio Code[cite: 3]
 * **Integrantes del equipo:** Leandro Valentín Castaño Vaquera, Claribel Flores Elena y Lus Iris Quipildor[cite: 3]
 
